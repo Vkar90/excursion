@@ -1,5 +1,6 @@
 body {
   background-color: black;
+  text-align: center;
 }
 
 h1 {
@@ -14,4 +15,24 @@ h1 {
   color: aquamarine;
   text-align: center;
   display: block;
+}
+
+h2 {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+p {
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+}
+
+h3 {
+  font-family: Verdana;
+  text-align: right;
+  color: gray;
+  font-weight: 400;
 }
